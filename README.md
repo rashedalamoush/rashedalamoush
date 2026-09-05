@@ -17,8 +17,7 @@ I am an AI/ML Engineer with a strong mathematical background, specializing in bu
 ---
 ### 📊 GitHub Analytics
 
-![Rashed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashedalamoush&show_icons=true&theme=tokyonight&hide_border=true)
-
+![Rashed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rashedalamoush&theme=tokyonight&hide_border=true)
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
