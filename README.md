@@ -1,5 +1,6 @@
-<h1 align="center">Hi there, I'm Rashed M. AlAmoush 👋</h1>
-<h3 align="center">AI/ML Engineer | Computer Vision & NLP Specialist</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Rashed+M.+AlAmoush+👋;AI%2FML+Engineer;Computer+Vision+%26+NLP+Specialist" alt="Typing Animation" />
+</h1>
 
 <p align="center">
   I am an AI/ML Engineer with a strong mathematical background, specializing in building and evaluating systems across text, vision, and structured data. My core focus is on Computer Vision and Artificial Intelligence engineering, bridging the gap between rigorous academic research and scalable software deployment.
@@ -15,10 +16,18 @@
 
 ---
 
+### 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rashedalamoush&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px" alt="Rashed's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashedalamoush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px" alt="Top Languages"/>
+</div>
+
+---
+
 ### 🛠️ Technical Arsenal
 
 **Languages & Tools:**
-`Python` `SQL` `Docker` `Git`
+`Python` `SQL` `Docker` `Git` `LaTeX`
 
 **AI/ML Libraries:**
 `PyTorch` `Transformers` `OpenCV` `XGBoost` `CatBoost` `Scikit-Learn`
@@ -41,10 +50,18 @@
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [in/rashed158](https://linkedin.com/in/rashed158)
-- **ResearchGate:** [Your-Profile-Link]
-- **Email:** [Your-Email@example.com]
+<p align="center">
+  <a href="https://linkedin.com/in/rashed158" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Rashed-Alamoush/research" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate" />
+  </a>
+  <a href="mailto:rromoush@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 <p align="center">
-  <i>Building intelligent systems, one tensor at a time.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=footer" width="100%"/>
 </p>
