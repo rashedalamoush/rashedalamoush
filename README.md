@@ -17,14 +17,15 @@ I am an AI/ML Engineer with a strong mathematical background, specializing in bu
 ---
 
 ### 📊 GitHub Analytics
-<div align="center">
 
-[![Rashed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashedalamoush&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/rashedalamoush)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashedalamoush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/rashedalamoush)
-
-</div>
-
----
+<p align="center">
+  <a href="https://github.com/rashedalamoush">
+    <img src="https://github-readme-stats.vercel.app/api?username=rashedalamoush&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=0D1117&amp;hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/rashedalamoush">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashedalamoush&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0D1117&amp;hide_border=true" alt="Top Languages" />
+  </a>
+</p>
 
 ### 🛠️ Technical Arsenal
 
