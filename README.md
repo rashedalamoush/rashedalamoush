@@ -1,28 +1,50 @@
-## Rashed M. AlAmoush
+<h1 align="center">Hi there, I'm Rashed M. AlAmoush 👋</h1>
+<h3 align="center">AI/ML Engineer | Computer Vision & NLP Specialist</h3>
 
-AI/ML engineer building and evaluating systems across **text, vision,
-speech, and structured data** — specializing in Arabic and its dialects.
+<p align="center">
+  I am an AI/ML Engineer with a strong mathematical background, specializing in building and evaluating systems across text, vision, and structured data. My core focus is on Computer Vision and Artificial Intelligence engineering, bridging the gap between rigorous academic research and scalable software deployment.
+</p>
 
-**Current**
-- `diglossia-judge` — benchmark, dataset, and debiased model for register
-  bias in Arabic LLM evaluation *(MSc thesis)*
-- Jordanian dialect speech-to-text dataset — collection through QC
+---
 
-**Selected work**
+### 🔭 Current Focus & Background
+- 🎓 Pursuing an **MSc in Computer Science** at Jordan University of Science and Technology (JUST).
+- 🧠 **Thesis Research:** Developing an LLM-as-a-Judge framework to evaluate Large Language Models for Modern Standard Arabic and regional dialects.
+- 🚀 **Core Interests:** Deepfake Detection, Multimodal Systems, Spatial-Temporal Analysis, and AI System Deployment.
+- 💬 Ask me about: **Computer Vision architectures, Arabic NLP, and Ensemble Learning.**
 
-| Project | Domain | Result |
-|---|---|---|
-| Deepfake detection — R(2+1)D | Video CV | 86.15% acc · 86.14% F1 |
-| Review score forecasting | Tabular ML | R² = 0.9135 |
-| Multimodal financial sentiment | NLP + Vision | FinBERT + LLaVA fusion |
-| Financial contagion networks | Graph mining | Louvain + centrality |
+---
 
-**Stack**
+### 🛠️ Technical Arsenal
 
-`Python` `PyTorch` `Transformers` `LoRA/DPO` `XGBoost` `FastAPI` `Docker` `SQL`
+**Languages & Tools:**
+`Python` `SQL` `Docker` `Git`
 
-**Background**
+**AI/ML Libraries:**
+`PyTorch` `Transformers` `OpenCV` `XGBoost` `CatBoost` `Scikit-Learn`
 
-BSc Mathematics → MSc Computer Science (NLP) @ JUST
+**Backend & Deployment:**
+`FastAPI` `Pydantic` `docker-compose`
 
-📫 [LinkedIn](https://linkedin.com/in/rashed158) · 📄 [ResearchGate](https://researchgate.net/profile/Rashed-Alamoush)
+---
+
+### 🏆 Featured Projects & Research
+
+| Project | Domain | Highlight |
+|---------|--------|-----------|
+| **Multimodal Financial Sentiment (StockSense)** | Multimodal AI | Fused FinBERT, LLaVA visual reasoning, and technical indicators via XGBoost to achieve risk-averse market predictions. |
+| **Deepfake Video Detection** | Computer Vision | Implemented a Spatio-Temporal R(2+1)D network to identify high-frequency artifacts and motion inconsistencies in compressed video. |
+| **Seismic Event Epicenter Modelling** | Tabular ML & Geospatial | Built a stacking ensemble framework predicting earthquake severity and coordinates with high accuracy ($R^2$ = 0.96). |
+| **Review Score Forecasting** | Tabular ML | Leveraged advanced tree-based ensembles (XGBoost, HistGradientBoosting) to forecast digital hospitality satisfaction. |
+| **AI Assistive Tech Scoping Review** | Research | Conducted comprehensive academic analysis mapping gaps in AI-driven mobility and object recognition systems. |
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [in/rashed158](https://linkedin.com/in/rashed158)
+- **ResearchGate:** [Your-Profile-Link]
+- **Email:** [Your-Email@example.com]
+
+<p align="center">
+  <i>Building intelligent systems, one tensor at a time.</i>
+</p>
